@@ -1,5 +1,4 @@
-class Sample2
-{
+class Sample2{
     public void display(){
         System.out.println("Welcome");
     }
