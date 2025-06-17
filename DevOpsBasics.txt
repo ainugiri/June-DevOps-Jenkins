@@ -1,0 +1,46 @@
+Development Operations
+Dev Ops
+
+Application - Xtz Company - Toys Manufacturing - Managing emp, stcks, sales, 
+
+Traditional
+
+Developer will built the appl.
+Operations (SysAdmin) deploy and maintained
+Testers - validated functionally separately
+
+DEV, QA, OPS -> separately - 
+
+libraries -> pip -> configuration
+
+Miscommunication
+
+Speed - Decreased 
+
+DevOps
+
+Focus on Process and Planning
+
+Agile:
+    Collaboration
+    Devliver Iteration
+    Incremental
+    2 - 4
+    X developer -> x mod
+    mod ->Operations
+    failed -> backlog -> refine -> planning => code -> 
+    Planning - code -Testng (Automated) Continuous Development
+    Operation -> 
+
+
+- Collaboration
+- Communication
+- Automation
+
+Cultural philosophies, practices and tools 
+
+Set of practices tools, and Cultural philosophies
+-> automate and integrate the process b/w dev and Ops
+
+planning
+coding          files   
