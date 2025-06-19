@@ -57,7 +57,9 @@ public class Car {
     }
 
     public void brake() {
+        System.out.println("The car is braking.");        
         System.out.println("The car is braking.");
+
     }
 
     // Override toString() for easy printing
