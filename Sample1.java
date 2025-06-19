@@ -7,5 +7,6 @@ class Sample1{
     {
     Sample1 A = new Sample1(); 
         A.display(); 
+        A.display(); 
     }
 }
