@@ -1,7 +1,7 @@
 class Sample1{
     public void display(){
         System.out.println("Welcome");
-        System.out.println("Giri Prasad P");
+        System.out.println("Yassine CHRAIBI");
     }
     public static void main(String[] args) 
     {
