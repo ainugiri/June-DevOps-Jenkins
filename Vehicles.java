@@ -6,8 +6,14 @@ class Vehicles{
         System.out.println("Welcome");
     }
 }
-class Car{
+class Cars{
+    public static void main(String[] args) {
+        System.out.println("Welcome");
+    }
 }
 
 class Bike{
+    public static void main(String[] args) {
+        System.out.println("Welcome");
+    }
 }
