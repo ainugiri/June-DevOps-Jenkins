@@ -1,6 +1,6 @@
 class Sample1{
     public void display(){
-        System.out.println("Sakthi");
+        System.out.println("ParaSakthi");
         System.out.println("Ramya");
         System.out.println("Rohin");
     }
