@@ -1,7 +1,8 @@
 class Sample1{
     public void display(){
-        System.out.println("Welcome");
-        System.out.println("Yassine");
+        System.out.println("Sakthi");
+        System.out.println("Ramya");
+        System.out.println("Rohin");
     }
     public static void main(String[] args) 
     {
